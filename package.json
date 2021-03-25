@@ -1,0 +1,17 @@
+{
+  "name": "licorned",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JUBILABO",
+  "license": "ISC",
+  "scripts":{
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
